@@ -1,1 +1,2 @@
-# leetCode_DS_solution_TS
+Leet solution solution in typeScript. 
+* In progress
