@@ -4,4 +4,4 @@ function isAnagram(s: string, t: string): boolean {
     let svalue = s.split("").sort();
     let tvalue = t.split("").sort();
      return svalue.join("") === tvalue.join("")
-    };
+};
